@@ -1,0 +1,2 @@
+# DesktopAppExportText
+ForExportTextAndTableOfExcelToWord
