@@ -1,0 +1,136 @@
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\EPPlus.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\EPPlus.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\WPF1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.baml
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\App.g.cs
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Programming\WPF1\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.baml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\App.g.cs
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\WPF1\Test\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.Interfaces.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.System.Drawing.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\EPPlus.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Buffers.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Memory.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.baml
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\App.g.cs
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Programming\WPF_Apps\WPF_App1 ExportTextAndTable\WpfApp1\obj\Debug\WpfApp1.pdb

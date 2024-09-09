@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|d:\\programming\\wpf_apps\\wpf_app1 exporttextandtable\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\wpfapp1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\wpfapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA01F675-402E-47F8-899A-D11E99F23A61}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "WpfApp1\\App.config",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\App.config",
+              "RelativeToolTip": "WpfApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-21T13:03:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T13:01:55.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:21:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\packages.config",
+              "RelativeDocumentMoniker": "WpfApp1\\packages.config",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\packages.config",
+              "RelativeToolTip": "WpfApp1\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T22:24:02.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T21:57:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\WPF_Apps\\WPF_App1 ExportTextAndTable\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAAAHQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:57:07.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
